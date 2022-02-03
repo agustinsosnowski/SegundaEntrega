@@ -1,0 +1,31 @@
+*{ margin: 0;
+padding: 0;
+box-sizing: border-box;}
+
+.sizeImagen{
+    width: 33%; height: 33%;
+}
+.minutosVideo{
+    background-color: rgb(207, 245, 232);
+    text-align: center;
+}
+.imagenLinkedin{
+    width: 10%;
+    height: 30%;
+}
+.imagenGmail{
+    width: 10%;
+    height: 30%;
+}
+.transformacionLinks:hover {
+    transform:translate(50px)
+}
+.transformacionLinks{
+    transition-duration: 3s;
+}
+.mailFooter{
+    background-color: rgb(179, 255, 229);
+}
+.linkedinFooter{
+    background-color: beige;
+}
